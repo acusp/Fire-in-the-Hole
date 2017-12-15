@@ -1,0 +1,3 @@
+Test: git rm
+
+touch `echo -e "\e[45mTwistlock\e[0m"
